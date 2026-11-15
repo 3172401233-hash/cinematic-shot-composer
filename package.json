@@ -1,0 +1,10 @@
+{
+  "name": "cinematic-shot-composer",
+  "version": "0.1.0",
+  "description": "帧对齐的过场镜头编排库：镜头轨道、对白字幕 cue、音频事件、转场约束与跳播状态重建",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
